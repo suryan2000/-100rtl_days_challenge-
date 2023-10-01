@@ -1,0 +1,27 @@
+//day3 using udp
+
+primitive Day31(f,x3,x2,x1);
+
+input x3,x2,x1;
+output f;
+table
+
+0 0 0 : 0;
+0 0 1 : 0;
+0 1 0 : 1;
+0 1 1 : 1;
+1 0 0 : 0;
+1 0 1 : 1;
+1 1 0 : 0;
+1 1 1 : 1;
+
+endtable
+endprimitive
+
+module day3(f,x3,x2,x1); 
+   input x3,x2,x1;
+   output f;      
+   
+   Day31(f,x3,x2,x1);
+endmodule   
+   
