@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/100 rtl days challenge/Day_9/Day_9.srcs/sources_1/new/day_9.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/100 rtl days challenge/Day_9/Day_9.srcs/sim_1/new/day_9_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module day_9_tb
