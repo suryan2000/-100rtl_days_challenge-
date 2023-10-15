@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/100 rtl days challenge/Day_11/Day_11.srcs/sources_1/new/mux_256-1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_256x1
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/100 rtl days challenge/Day_11/Day_11.srcs/sources_1/new/mux_256_1_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_256_1_tb

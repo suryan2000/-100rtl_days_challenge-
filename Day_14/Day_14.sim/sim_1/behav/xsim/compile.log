@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/100 rtl days challenge/Day_14/Day_14.srcs/sources_1/new/ripple carry adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Full_adder
+INFO: [VRFC 10-311] analyzing module ripple_carry_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/100 rtl days challenge/Day_14/Day_14.srcs/sim_1/new/ripple_carry_adder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ripple_carry_adder_tb
